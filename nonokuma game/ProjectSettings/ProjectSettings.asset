@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 097c6d8974166f443befa151f5fde879
+  productGUID: 0baf8547c14eb954b9820154fd384a40
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: New Unity Project
+  productName: nonokuma game
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -663,8 +663,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: da4a3e4e-37cc-4f9a-9599-031ad116378b
-  projectName: New Unity Project (10)
+  cloudProjectId: f0233637-8106-4bad-a0f3-b6c3b7edd8c7
+  projectName: nonokuma game
   organizationId: despair-developers
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
